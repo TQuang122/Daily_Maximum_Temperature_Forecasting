@@ -72,7 +72,7 @@ uv sync
 ```
 
 ### Dependencies Chính
-- **Core ML**: scikit-learn, xgboost, lightgbm, catboost
+- **Core ML**: scikit-learn, xgboost, lightgbm, random forest, adaboost
 - **Optimization**: optuna
 - **Visualization**: matplotlib, seaborn
 - **Data Processing**: pandas, numpy
